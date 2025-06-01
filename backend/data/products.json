@@ -1,0 +1,140 @@
+[{
+    "name": "Celestial Memories",
+    "price": 1499.00,
+    "description": "A custom star map showing the alignment of the stars on a special date, a unique and sentimental gift for stargazers and romantics.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      }
+    ],
+    "category": " Star",
+    "seller": "Printvenue",
+    "stock": 5
+  },
+  {
+    "name": "Handcrafted Wooden Pen",
+    "price": 1800.32,
+    "description": "A beautifully crafted wooden pen with intricate designs, a perfect gift for writers, artists, and anyone who appreciates fine craftsmanship.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Pens",
+    "seller": "Penkraft",
+    "stock": 9
+  },
+  {
+    "name": "Moments Captured",
+    "price": 699.57,
+    "description": "A customized photo album to cherish memories, capturing special moments and creating a lasting keepsake.",
+    "ratings": 6,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "album",
+    "seller": "Ferns N Petals",
+    "stock": 9
+  },
+  {
+    "name": " Aromatic Bliss",
+    "price": 999.45,
+    "description": "A set of scented candles to create a relaxing ambiance, perfect for unwinding and de-stressing.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "candle",
+    "seller": "Nykaa",
+    "stock": 9
+  },
+  {
+    "name": "Coffee Mug",
+    "price": 499,
+    "description": "A customized coffee mug with a special message or photo, a heartwarming gift for coffee lovers and morning routine enthusiasts.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "mug",
+    "seller": "Printland",
+    "stock": 9
+  },
+  {
+    "name": "Nourish Your Skin",
+    "price": 1999,
+    "description": "A set of natural and organic skincare products, promoting healthy and radiant skin.",
+    "ratings": 4.0,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "skincare",
+    "seller": "The Body shop",
+    "stock": 4
+  },
+  {
+    "name": "Leather Wallet",
+    "price": 2200,
+    "description": " A stylish and durable leather wallet with a personalized touch, a practical and elegant gift for the discerning individual.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "wallet",
+    "seller": "walletworld",
+    "stock": 6
+  },
+  {
+    "name": "Large Teddy Bear",
+    "price": 1500,
+    "description": "A soft and cuddly teddy bear, perfect for hugs and cuddles.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Teddy",
+    "seller": "Online Toy Stores",
+    "stock": 6
+  },
+  {
+    "name": "Wall Art",
+    "price": 2500,
+    "description": "A custom piece of wall art, perfect for adding a personal touch to any room.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/9.jpg"
+      }
+    ],
+    "category": "Teddy",
+    "seller": "Online art store",
+    "stock": 2
+  },{
+    "name": "Vintage Watch",
+    "price": 2500,
+    "description": "A vintage watch with character and history",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/10.jpg"
+      }
+    ],
+    "category": "watch",
+    "seller": "vintageWatchDealers",
+    "stock": 2
+  }
+]
